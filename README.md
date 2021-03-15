@@ -9,7 +9,6 @@ My name is Felipe Almeida and I'm a brazilian scientist, bioinformatician, pipel
 
 <!--
     Top pipelines or repositories
--->
 
 <a href="https://github.com/fmalmeida/bacannot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fmalmeida&repo=bacannot" />
@@ -23,3 +22,4 @@ My name is Felipe Almeida and I'm a brazilian scientist, bioinformatician, pipel
 <a href="https://github.com/fmalmeida/gff-toolbox">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fmalmeida&repo=gff-toolbox" />
 </a>
+-->
