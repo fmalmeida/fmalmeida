@@ -5,10 +5,10 @@ My name is Felipe Almeida and I'm a brazilian scientist, bioinformatician, pipel
 ## &#x1f4c8; GitHub Stats
 [![Felipe Github Stats](https://github-readme-stats.vercel.app/api?username=fmalmeida&count_private=true&show_icons=true&theme=vue)](https://github.com/fmalmeida/github-readme-stats)
 
-## Main productions
-
 <!--
     Top pipelines or repositories
+
+## Main productions
 
 <a href="https://github.com/fmalmeida/bacannot">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fmalmeida&repo=bacannot" />
