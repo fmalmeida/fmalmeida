@@ -14,7 +14,7 @@ I'm a PhD student at the [University of Brasilia](https://unb.br/), at the CompG
 ![bash](https://api.iconify.design/logos:bash-icon.svg?width=30&height=30)
 
 ## My stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmalmeida&layout=compact&hide=tex,css,html,scss,ruby,javascript&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fmalmeida&layout=compact&hide=tex,css,html,scss,ruby,javascript,pep8&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Felipe Github Stats](https://github-readme-stats.vercel.app/api?username=fmalmeida&count_private=true&show_icons=true&theme=vue)](https://github.com/fmalmeida/github-readme-stats)
 
