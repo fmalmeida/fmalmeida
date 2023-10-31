@@ -1,5 +1,5 @@
 # Hello :grin: :wave:
-Hello there, my name is Felipe Almeida, a brazilian scientist, bioinformatician, pipeline developer and problem solver. My main interests are: Bioinformatics specially focused on genomic surveillance, precision medicine, and microbial genomics in general. You can also find me on twitter [@fmarquesalmeida](https://twitter.com/fmarquesalmeida), [stackoverflow](https://stackoverflow.com/users/12711021/felipe-almeida) and [linkedin](https://www.linkedin.com/in/almeida-fm).
+Hello there, my name is Felipe Almeida, a brazilian scientist, bioinformatician, pipeline developer and problem solver. My main interests are: Bioinformatics, genomic surveillance, precision medicine, and microbial genomics. You can also find me on twitter [@fmarquesalmeida](https://twitter.com/fmarquesalmeida), [stackoverflow](https://stackoverflow.com/users/12711021/felipe-almeida) and [linkedin](https://www.linkedin.com/in/almeida-fm).
 
 ## Academic info
 
