@@ -1,9 +1,11 @@
 # Hello :grin: :wave:
 Hello there, my name is Felipe Almeida, a brazilian scientist, bioinformatician, pipeline developer and problem solver. My main interests are: Bioinformatics, genomic surveillance, precision medicine, and microbial genomics. You can also find me on twitter [@fmarquesalmeida](https://twitter.com/fmarquesalmeida), [stackoverflow](https://stackoverflow.com/users/12711021/felipe-almeida) and [linkedin](https://www.linkedin.com/in/almeida-fm).
 
-## Academic info
+## Professional info
 
-I'm a PhD student at the [University of Brasilia](https://unb.br/), at the CompGen (Computational Genomics) laboratory with academic guidance from PhD. Prof. Georgios J. Pappas Jr. 
+Senior Bioinformatician at [ZS Copenhagen](https://www.zs.com/careers/where-we-work/europe/copenhagen).
+
+## Academic info
 
 [![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-6855-3379)
 
