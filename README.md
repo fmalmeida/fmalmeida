@@ -3,7 +3,7 @@ Hello there, my name is Felipe Almeida, a brazilian scientist, bioinformatician,
 
 ## Professional info
 
-Senior Bioinformatician at [ZS Copenhagen](https://www.zs.com/careers/where-we-work/europe/copenhagen).
+ Lead Bioinformatician at [ZS Copenhagen](https://www.zs.com/careers/where-we-work/europe/copenhagen).
 
 ## Academic info
 
